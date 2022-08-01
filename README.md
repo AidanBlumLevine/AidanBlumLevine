@@ -4,11 +4,7 @@ I'm Aidan, a computer science student at MIT.
 
 Below you can see some projects that I think are worth checking out. Most of them are visually interesting and have a simple in-browser demo!
 
-Key:
-- ⭐ = Personal favorite
-- 🕹 = Game
-- 🖥 = Browser demo 
-- ⚙️ = Procedural Generation
+⭐ = Personal favorite<br>🕹 = Game<br>🖥 = Browser demo <br>⚙️ = Procedural Generation
 
 | ***Projects*** | <!-- --> |
 |---|---|
