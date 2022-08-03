@@ -9,7 +9,7 @@ Below you can see some projects that I think are worth checking out. Most of the
 | Project Spotlight | Preview |
 |---|---|
 |[Fractal Playground ⭐ 🖥](https://github.com/AidanBlumLevine/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!|![thm](https://github.com/AidanBlumLevine/fractals/blob/main/thumbnail.png) |
-|[Factory Blocks ⭐ 🕹](https://github.com/AidanBlumLevine/factory-blocks) <br> A fun puzzle game for your phone!| |
+|[Factory Blocks ⭐ 🕹](https://github.com/AidanBlumLevine/factory-blocks) <br> A fun puzzle game for your phone!|<img src="https://github.com/AidanBlumLevine/factory-blocks/blob/master/final%20tile%20game(YELLOW%20COIN).gif" width="500" height="600">|
 |[Rectangle Generator ⭐ ⚙️ 🖥](https://github.com/AidanBlumLevine/rectangles) <br> Procedurally generated rectangle art.|![thm](https://github.com/AidanBlumLevine/rectangles/blob/master/thumbnail.png) |
 |[Quantum Chess 🕹 🖥](https://github.com/AidanBlumLevine/quantum-chess) <br> Two player chess modification where both players move at the same time.|![ico](https://raw.githubusercontent.com/AidanBlumLevine/quantum-chess/main/dist/favicon.ico) |
 |[Hand Drawn Rendering Pipeline 🕹 🖥](https://github.com/AidanBlumLevine/NPR-factory) <br> A neat hand drawn rendering style + an incomplete game.| |
