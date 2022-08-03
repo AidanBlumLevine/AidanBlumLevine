@@ -17,7 +17,7 @@ Below you can see some projects that I think are worth checking out. Most of the
 |[Satellite to Street Maps 🖥](https://github.com/AidanBlumLevine/satellitemaps) <br> GAN trained to create street maps from satellite maps.|<img src="https://github.com/AidanBlumLevine/satellitemaps/raw/master/map1.png" height="300"> |
 |[Island Generator 🖥 ⚙️](https://github.com/AidanBlumLevine/islands) <br> Cute procedurally generated 3D islands. |<img src="https://github.com/AidanBlumLevine/islands/blob/main/thumbnail_gif.gif"> |
 |[Coderoom 🖥](https://github.com/AidanBlumLevine/coderoom) <br> A tool to help teach javascript in a virtual class setting. |<img src="https://github.com/AidanBlumLevine/coderoom/blob/master/coderoom.png" height="300"> |
-|[Bouncy Walls 🕹 🖥](https://github.com/AidanBlumLevine/bouncy-walls) <br> A mini golf game with fun a custom physics and an interesting art style.| |
+|[Bouncy Walls 🕹 🖥](https://github.com/AidanBlumLevine/bouncy-walls) <br> A fast paced mini golf style game with fun custom physics and an interesting art style.|<img src="https://github.com/AidanBlumLevine/bouncy-walls/blob/f914cc0b2772cde6f6b1787a624a15ffe91c39c7/thumbnail_gif.gif"> |
 |[Mesh Assembly ⚙️](https://github.com/AidanBlumLevine/mesh-assembly) <br> Automatic mesh parsing and assembly for cell based 3D world generation.| |
 
   
