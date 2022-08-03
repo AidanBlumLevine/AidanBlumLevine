@@ -6,7 +6,7 @@ Below you can see some projects that I think are worth checking out. Most of the
 
 ⭐ = Personal favorite<br>🕹 = Game<br>🖥 = Browser demo <br>⚙️ = Procedural Generation
 
-| ***Project Spotlight*** | Preview |
+| Project Spotlight | Preview |
 |---|---|
 |[Fractal Playground ⭐ 🖥](https://aidanblumlevine.github.io/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!| |
 |[Factory Blocks ⭐ 🕹](https://github.com/AidanBlumLevine/factory-blocks) <br> A fun puzzle game for your phone!| |
