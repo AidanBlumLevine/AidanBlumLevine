@@ -8,10 +8,10 @@ Below you can see some projects that I think are worth checking out. Most of the
 
 | Project Spotlight | Preview |
 |---|---|
-|[Fractal Playground ⭐ 🖥](https://github.com/AidanBlumLevine/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!| |
+|[Fractal Playground ⭐ 🖥](https://github.com/AidanBlumLevine/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!|![thm](https://github.com/AidanBlumLevine/fractals/blob/main/thumbnail.png) |
 |[Factory Blocks ⭐ 🕹](https://github.com/AidanBlumLevine/factory-blocks) <br> A fun puzzle game for your phone!| |
-|[Rectangle Generator ⭐ ⚙️ 🖥](https://github.com/AidanBlumLevine/rectangles) <br> Procedurally generated rectangle art.| |
-|[Quantum Chess 🕹 🖥](https://github.com/AidanBlumLevine/quantum-chess) <br> Two player chess modification where both players move at the same time.| |
+|[Rectangle Generator ⭐ ⚙️ 🖥](https://github.com/AidanBlumLevine/rectangles) <br> Procedurally generated rectangle art.|![thm](https://github.com/AidanBlumLevine/rectangles/blob/master/thumbnail.png) |
+|[Quantum Chess 🕹 🖥](https://github.com/AidanBlumLevine/quantum-chess) <br> Two player chess modification where both players move at the same time.|![ico](https://raw.githubusercontent.com/AidanBlumLevine/quantum-chess/main/dist/favicon.ico) |
 |[Hand Drawn Rendering Pipeline 🕹 🖥](https://github.com/AidanBlumLevine/NPR-factory) <br> A neat hand drawn rendering style + an incomplete game.| |
 |[Desktop Narwhal ⭐](https://github.com/AidanBlumLevine/desktop-pet) <br> A cute narhwal that lives on your computer screen!|![prev](https://github.com/AidanBlumLevine/desktop-pet/blob/master/thumbnail_improved2.gif)|
 |[Satellite to Street Maps 🖥](https://github.com/AidanBlumLevine/satellitemaps) <br> GAN trained to create street maps from satellite maps.| |
