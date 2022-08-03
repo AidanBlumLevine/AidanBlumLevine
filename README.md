@@ -8,7 +8,7 @@ Below you can see some projects that I think are worth checking out. Most of the
 
 | Project Spotlight | Preview |
 |---|---|
-|[Fractal Playground ⭐ 🖥](https://aidanblumlevine.github.io/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!| |
+|[Fractal Playground ⭐ 🖥](https://github.com/AidanBlumLevine/fractals/)<br>Block based raymarched fractal builder and explorer right in your browser!| |
 |[Factory Blocks ⭐ 🕹](https://github.com/AidanBlumLevine/factory-blocks) <br> A fun puzzle game for your phone!| |
 |[Rectangle Generator ⭐ ⚙️ 🖥](https://github.com/AidanBlumLevine/rectangles) <br> Procedurally generated rectangle art.| |
 |[Quantum Chess 🕹 🖥](https://github.com/AidanBlumLevine/quantum-chess) <br> Two player chess modification where both players move at the same time.| |
