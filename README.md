@@ -1,6 +1,6 @@
 Hi!
 
-I'm Aidan, a computer science student at MIT.
+I'm Aidan, a second year computer science student at MIT.
 
 Below you can see some projects that I think are worth checking out. Most of them are visually interesting and have a simple in-browser demo!
 
